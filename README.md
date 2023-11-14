@@ -1,5 +1,5 @@
 # Block-Factory-2
-A continuation of the Block Factory (Lab 5, template developed by Professor Gary Cantrell)
+A continuation of the Block Factory – (Lab 5, template developed by Professor Gary Cantrell)
 
 Here in the Block Factory 2 program, blocks are used to build houses once the block requirements and thresholds are met:
 
