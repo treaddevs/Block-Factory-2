@@ -1,5 +1,6 @@
 # Block-Factory-2
 A continuation of the Block Factory 
+(Lab 5, outline developed by Professor Gary Cantrell)
 
 Here in the Block Factory 2 program, blocks are used to build houses once the block requirements and thresholds are met:
 
