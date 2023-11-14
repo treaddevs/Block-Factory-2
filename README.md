@@ -1,6 +1,5 @@
 # Block-Factory-2
 A continuation of the Block Factory 
-(Lab 5, outline developed by Professor Gary Cantrell)
 
 Here in the Block Factory 2 program, blocks are used to build houses once the block requirements and thresholds are met:
 
@@ -18,3 +17,5 @@ Likewise, once a stone block has been produced, it is subtracted from the stone 
 
 Enough resources accumulated to build the first house:
 <img width="704" alt="Screen Shot 2023-11-14 at 2 52 31 PM" src="https://github.com/treaddevs/Block-Factory-2/assets/148214913/f4237e53-0c06-40c5-bf12-a63c91a9c2c1">
+
+(Lab 5, outline developed by Professor Gary Cantrell)
